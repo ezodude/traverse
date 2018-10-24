@@ -1,0 +1,21 @@
+{
+  "Info1": {
+    "Date": "2011-12-31",
+    "Value": "2011-12-31"
+  },
+  "Info2": [
+    {
+      "Date": "2011-12-31",
+      "Value": "Great Value on 2011-12-31"
+    },
+    {
+      "Date": "2010-12-31",
+      "Value": "Great Value"
+    }
+  ],
+  "Info3": {
+    "End": "2011-12-31",
+    "Start": "2011-01-01",
+    "Value": "Great Value"
+  }
+}
